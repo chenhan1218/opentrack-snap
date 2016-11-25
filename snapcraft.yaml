@@ -1,0 +1,6 @@
+name: opentrack
+version: opentrack-2.3-rc99p14-snap1-gca299e4
+summary: Head tracking software for MS Windows, Linux, and Apple OSX
+description: Head tracking software for MS Windows, Linux, and Apple OSX
+confinement: strict
+
